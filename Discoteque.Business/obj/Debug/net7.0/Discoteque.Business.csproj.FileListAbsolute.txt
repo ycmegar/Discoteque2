@@ -1,0 +1,12 @@
+C:\Users\2000c\Yese\Pioneras\Discoteque2\Discoteque\Discoteque.Business\bin\Debug\net7.0\Discoteque.Business.deps.json
+C:\Users\2000c\Yese\Pioneras\Discoteque2\Discoteque\Discoteque.Business\bin\Debug\net7.0\Discoteque.Business.dll
+C:\Users\2000c\Yese\Pioneras\Discoteque2\Discoteque\Discoteque.Business\bin\Debug\net7.0\Discoteque.Business.pdb
+C:\Users\2000c\Yese\Pioneras\Discoteque2\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.csproj.AssemblyReference.cache
+C:\Users\2000c\Yese\Pioneras\Discoteque2\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2000c\Yese\Pioneras\Discoteque2\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.AssemblyInfoInputs.cache
+C:\Users\2000c\Yese\Pioneras\Discoteque2\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.AssemblyInfo.cs
+C:\Users\2000c\Yese\Pioneras\Discoteque2\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.csproj.CoreCompileInputs.cache
+C:\Users\2000c\Yese\Pioneras\Discoteque2\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.dll
+C:\Users\2000c\Yese\Pioneras\Discoteque2\Discoteque\Discoteque.Business\obj\Debug\net7.0\refint\Discoteque.Business.dll
+C:\Users\2000c\Yese\Pioneras\Discoteque2\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.pdb
+C:\Users\2000c\Yese\Pioneras\Discoteque2\Discoteque\Discoteque.Business\obj\Debug\net7.0\ref\Discoteque.Business.dll
