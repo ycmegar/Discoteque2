@@ -10,3 +10,6 @@ C:\Users\2000c\Yese\Pioneras\Discoteque2\Discoteque\Discoteque.Business\obj\Debu
 C:\Users\2000c\Yese\Pioneras\Discoteque2\Discoteque\Discoteque.Business\obj\Debug\net7.0\refint\Discoteque.Business.dll
 C:\Users\2000c\Yese\Pioneras\Discoteque2\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.pdb
 C:\Users\2000c\Yese\Pioneras\Discoteque2\Discoteque\Discoteque.Business\obj\Debug\net7.0\ref\Discoteque.Business.dll
+C:\Users\2000c\Yese\Pioneras\Discoteque2\Discoteque\Discoteque.Business\bin\Debug\net7.0\Discoteque.Data.dll
+C:\Users\2000c\Yese\Pioneras\Discoteque2\Discoteque\Discoteque.Business\bin\Debug\net7.0\Discoteque.Data.pdb
+c:\Users\2000c\Yese\Pioneras\Discoteque2\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.csproj.CopyComplete
